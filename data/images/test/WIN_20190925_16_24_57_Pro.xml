@@ -1,0 +1,26 @@
+<annotation>
+	<folder>194-294 - Copy</folder>
+	<filename>WIN_20190925_16_24_57_Pro.jpg</filename>
+	<path>C:\Users\amarg\Desktop\194-294 - Copy\WIN_20190925_16_24_57_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1152</width>
+		<height>648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skystone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>28</ymin>
+			<xmax>971</xmax>
+			<ymax>483</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>194-294 - Copy</folder>
+	<filename>WIN_20190925_16_27_14_Pro.jpg</filename>
+	<path>C:\Users\amarg\Desktop\194-294 - Copy\WIN_20190925_16_27_14_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1152</width>
+		<height>648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_foundation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>242</ymin>
+			<xmax>1034</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>
