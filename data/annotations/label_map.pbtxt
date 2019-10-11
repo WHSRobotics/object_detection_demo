@@ -1,0 +1,24 @@
+item {
+    id: 1
+    name: 'left'
+}
+
+item {
+    id: 2
+    name: 'center'
+}
+
+item {
+    id: 3
+    name: 'right'
+}
+
+item {
+    id: 4
+    name: 'blue_foundation'
+}
+
+item {
+    id: 4
+    name: 'red_foundation'
+}
