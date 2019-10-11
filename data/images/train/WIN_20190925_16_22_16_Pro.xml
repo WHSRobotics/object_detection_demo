@@ -1,7 +1,7 @@
 <annotation>
-	<folder>194-294 - Copy</folder>
+	<folder>train-v3</folder>
 	<filename>WIN_20190925_16_22_16_Pro.jpg</filename>
-	<path>C:\Users\amarg\Desktop\194-294 - Copy\WIN_20190925_16_22_16_Pro.jpg</path>
+	<path>C:\Users\amarg\Desktop\train-v3\WIN_20190925_16_22_16_Pro.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,75 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>stone</name>
+		<name>center</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>739</xmin>
-			<ymin>200</ymin>
-			<xmax>1091</xmax>
-			<ymax>420</ymax>
+			<xmin>406</xmin>
+			<ymin>149</ymin>
+			<xmax>1086</xmax>
+			<ymax>476</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>stone</name>
+		<name>center</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>412</xmin>
-			<ymin>139</ymin>
-			<xmax>554</xmax>
-			<ymax>315</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>308</xmin>
-			<ymin>131</ymin>
-			<xmax>410</xmax>
-			<ymax>276</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>174</xmin>
-			<ymin>115</ymin>
-			<xmax>243</xmax>
-			<ymax>220</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>skystone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>243</xmin>
-			<ymin>119</ymin>
-			<xmax>309</xmax>
-			<ymax>239</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>skystone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>561</xmin>
-			<ymin>159</ymin>
-			<xmax>736</xmax>
-			<ymax>370</ymax>
+			<xmin>177</xmin>
+			<ymin>114</ymin>
+			<xmax>414</xmax>
+			<ymax>293</ymax>
 		</bndbox>
 	</object>
 </annotation>

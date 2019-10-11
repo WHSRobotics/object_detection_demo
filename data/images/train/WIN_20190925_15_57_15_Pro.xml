@@ -1,86 +1,38 @@
 <annotation>
-	<folder>1-92</folder>
+	<folder>train-v3</folder>
 	<filename>WIN_20190925_15_57_15_Pro.jpg</filename>
-	<path>C:\Users\amarg\Desktop\1-92\WIN_20190925_15_57_15_Pro.jpg</path>
+	<path>C:\Users\amarg\Desktop\train-v3\WIN_20190925_15_57_15_Pro.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1920</width>
-		<height>1080</height>
+		<width>1152</width>
+		<height>648</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>skystone</name>
+		<name>left</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>978</xmin>
-			<ymin>501</ymin>
-			<xmax>1221</xmax>
-			<ymax>733</ymax>
+			<xmin>578</xmin>
+			<ymin>326</ymin>
+			<xmax>1006</xmax>
+			<ymax>457</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>stone</name>
+		<name>left</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>643</xmin>
-			<ymin>478</ymin>
-			<xmax>955</xmax>
-			<ymax>737</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>260</xmin>
-			<ymin>495</ymin>
-			<xmax>626</xmax>
-			<ymax>724</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1226</xmin>
-			<ymin>506</ymin>
-			<xmax>1470</xmax>
-			<ymax>718</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1484</xmin>
-			<ymin>538</ymin>
-			<xmax>1666</xmax>
-			<ymax>700</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>skystone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>3</xmin>
-			<ymin>488</ymin>
-			<xmax>241</xmax>
-			<ymax>742</ymax>
+			<xmin>1</xmin>
+			<ymin>288</ymin>
+			<xmax>579</xmax>
+			<ymax>450</ymax>
 		</bndbox>
 	</object>
 </annotation>

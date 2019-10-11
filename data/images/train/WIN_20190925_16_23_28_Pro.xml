@@ -1,7 +1,7 @@
 <annotation>
-	<folder>194-294 - Copy</folder>
+	<folder>train-v3</folder>
 	<filename>WIN_20190925_16_23_28_Pro.jpg</filename>
-	<path>C:\Users\amarg\Desktop\194-294 - Copy\WIN_20190925_16_23_28_Pro.jpg</path>
+	<path>C:\Users\amarg\Desktop\train-v3\WIN_20190925_16_23_28_Pro.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,51 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>stone</name>
+		<name>right</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>434</xmin>
-			<ymin>147</ymin>
-			<xmax>565</xmax>
-			<ymax>281</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>555</xmin>
-			<ymin>151</ymin>
-			<xmax>726</xmax>
-			<ymax>360</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>994</xmin>
-			<ymin>199</ymin>
-			<xmax>1152</xmax>
-			<ymax>432</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>skystone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>731</xmin>
-			<ymin>160</ymin>
+			<xmin>430</xmin>
+			<ymin>142</ymin>
 			<xmax>992</xmax>
-			<ymax>424</ymax>
+			<ymax>435</ymax>
 		</bndbox>
 	</object>
 </annotation>

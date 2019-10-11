@@ -1,7 +1,7 @@
 <annotation>
-	<folder>194-294 - Copy</folder>
+	<folder>test-v3</folder>
 	<filename>WIN_20190925_16_23_30_Pro.jpg</filename>
-	<path>C:\Users\amarg\Desktop\194-294 - Copy\WIN_20190925_16_23_30_Pro.jpg</path>
+	<path>C:\Users\amarg\Desktop\test-v3\WIN_20190925_16_23_30_Pro.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,99 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>skystone</name>
+		<name>right</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>894</xmin>
-			<ymin>93</ymin>
+			<xmin>444</xmin>
+			<ymin>75</ymin>
 			<xmax>1130</xmax>
-			<ymax>253</ymax>
+			<ymax>277</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>skystone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>221</xmin>
-			<ymin>131</ymin>
-			<xmax>456</xmax>
-			<ymax>280</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>448</xmin>
-			<ymin>108</ymin>
-			<xmax>664</xmax>
-			<ymax>276</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>673</xmin>
-			<ymin>93</ymin>
-			<xmax>892</xmax>
-			<ymax>267</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
+		<name>left</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>132</ymin>
-			<xmax>238</xmax>
-			<ymax>290</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>186</xmin>
-			<ymin>34</ymin>
-			<xmax>288</xmax>
-			<ymax>117</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>296</xmin>
-			<ymin>22</ymin>
-			<xmax>390</xmax>
-			<ymax>113</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>406</xmin>
-			<ymin>18</ymin>
-			<xmax>506</xmax>
-			<ymax>102</ymax>
+			<ymin>137</ymin>
+			<xmax>452</xmax>
+			<ymax>279</ymax>
 		</bndbox>
 	</object>
 </annotation>

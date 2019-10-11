@@ -1,7 +1,7 @@
 <annotation>
-	<folder>194-294 - Copy</folder>
+	<folder>train-v3</folder>
 	<filename>WIN_20190925_16_25_46_Pro.jpg</filename>
-	<path>C:\Users\amarg\Desktop\194-294 - Copy\WIN_20190925_16_25_46_Pro.jpg</path>
+	<path>C:\Users\amarg\Desktop\train-v3\WIN_20190925_16_25_46_Pro.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>135</xmin>
-			<ymin>86</ymin>
-			<xmax>1000</xmax>
-			<ymax>340</ymax>
+			<xmin>133</xmin>
+			<ymin>103</ymin>
+			<xmax>1015</xmax>
+			<ymax>312</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>foundation pics</folder>
+	<folder>test-v3</folder>
 	<filename>WIN_20190928_14_30_29_Pro.jpg</filename>
-	<path>C:\Users\amarg\Desktop\foundation pics\WIN_20190928_14_30_29_Pro.jpg</path>
+	<path>F:\Tensorflow Pics\test-v3\WIN_20190928_14_30_29_Pro.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>10</ymin>
-			<xmax>1004</xmax>
-			<ymax>578</ymax>
+			<ymin>12</ymin>
+			<xmax>1006</xmax>
+			<ymax>574</ymax>
 		</bndbox>
 	</object>
 </annotation>

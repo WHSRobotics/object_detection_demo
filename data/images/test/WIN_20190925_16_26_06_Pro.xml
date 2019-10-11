@@ -1,7 +1,7 @@
 <annotation>
-	<folder>194-294 - Copy</folder>
+	<folder>test-v3</folder>
 	<filename>WIN_20190925_16_26_06_Pro.jpg</filename>
-	<path>C:\Users\amarg\Desktop\194-294 - Copy\WIN_20190925_16_26_06_Pro.jpg</path>
+	<path>F:\Tensorflow Pics\test-v3\WIN_20190925_16_26_06_Pro.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>286</xmin>
-			<ymin>70</ymin>
-			<xmax>1061</xmax>
-			<ymax>286</ymax>
+			<xmin>295</xmin>
+			<ymin>88</ymin>
+			<xmax>1068</xmax>
+			<ymax>271</ymax>
 		</bndbox>
 	</object>
 </annotation>

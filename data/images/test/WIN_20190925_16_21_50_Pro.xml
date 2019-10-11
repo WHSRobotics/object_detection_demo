@@ -1,7 +1,7 @@
 <annotation>
-	<folder>194-294 - Copy</folder>
+	<folder>test-v3</folder>
 	<filename>WIN_20190925_16_21_50_Pro.jpg</filename>
-	<path>C:\Users\amarg\Desktop\194-294 - Copy\WIN_20190925_16_21_50_Pro.jpg</path>
+	<path>C:\Users\amarg\Desktop\test-v3\WIN_20190925_16_21_50_Pro.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,75 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>stone</name>
+		<name>center</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>17</xmin>
-			<ymin>248</ymin>
-			<xmax>267</xmax>
-			<ymax>410</ymax>
+			<xmin>9</xmin>
+			<ymin>263</ymin>
+			<xmax>703</xmax>
+			<ymax>420</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>stone</name>
+		<name>center</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>494</xmin>
-			<ymin>265</ymin>
-			<xmax>709</xmax>
-			<ymax>398</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>717</xmin>
-			<ymin>266</ymin>
-			<xmax>900</xmax>
-			<ymax>401</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1069</xmin>
-			<ymin>267</ymin>
-			<xmax>1152</xmax>
-			<ymax>392</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>skystone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>281</xmin>
-			<ymin>261</ymin>
-			<xmax>490</xmax>
-			<ymax>408</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>skystone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>906</xmin>
-			<ymin>267</ymin>
-			<xmax>1066</xmax>
-			<ymax>396</ymax>
+			<xmin>709</xmin>
+			<ymin>257</ymin>
+			<xmax>1149</xmax>
+			<ymax>413</ymax>
 		</bndbox>
 	</object>
 </annotation>

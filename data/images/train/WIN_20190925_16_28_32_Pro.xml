@@ -1,7 +1,7 @@
 <annotation>
-	<folder>295-312 - Copy</folder>
+	<folder>train-v3</folder>
 	<filename>WIN_20190925_16_28_32_Pro.jpg</filename>
-	<path>C:\Users\amarg\Desktop\295-312 - Copy\WIN_20190925_16_28_32_Pro.jpg</path>
+	<path>C:\Users\amarg\Desktop\train-v3\WIN_20190925_16_28_32_Pro.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,30 +21,6 @@
 			<ymin>141</ymin>
 			<xmax>1092</xmax>
 			<ymax>284</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>38</xmin>
-			<ymin>80</ymin>
-			<xmax>112</xmax>
-			<ymax>152</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>508</xmin>
-			<ymin>117</ymin>
-			<xmax>593</xmax>
-			<ymax>171</ymax>
 		</bndbox>
 	</object>
 </annotation>
