@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train-v3</folder>
+	<folder>train</folder>
 	<filename>WIN_20190925_16_23_26_Pro.jpg</filename>
-	<path>C:\Users\amarg\Desktop\train-v3\WIN_20190925_16_23_26_Pro.jpg</path>
+	<path>C:\Users\amarg\Documents\Robotics\FTC\object_detection_demo\data\images\train\WIN_20190925_16_23_26_Pro.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,42 @@
 			<ymin>172</ymin>
 			<xmax>1061</xmax>
 			<ymax>431</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>center</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>169</ymin>
+			<xmax>471</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>173</ymin>
+			<xmax>708</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>171</ymin>
+			<xmax>302</xmax>
+			<ymax>322</ymax>
 		</bndbox>
 	</object>
 </annotation>

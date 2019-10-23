@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10-9</folder>
+	<filename>WIN_20191009_17_52_32_Pro.jpg</filename>
+	<path>C:\Users\amarg\Desktop\10-9\WIN_20191009_17_52_32_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>19</ymin>
+			<xmax>1749</xmax>
+			<ymax>685</ymax>
+		</bndbox>
+	</object>
+</annotation>

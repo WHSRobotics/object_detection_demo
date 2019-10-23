@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test-v3</folder>
+	<folder>test</folder>
 	<filename>WIN_20190925_16_21_24_Pro.jpg</filename>
-	<path>C:\Users\amarg\Desktop\test-v3\WIN_20190925_16_21_24_Pro.jpg</path>
+	<path>C:\Users\amarg\Documents\Robotics\FTC\object_detection_demo\data\images\test\WIN_20190925_16_21_24_Pro.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,30 @@
 			<ymin>192</ymin>
 			<xmax>1152</xmax>
 			<ymax>350</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>173</ymin>
+			<xmax>826</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>442</xmin>
+			<ymin>177</ymin>
+			<xmax>1043</xmax>
+			<ymax>330</ymax>
 		</bndbox>
 	</object>
 </annotation>

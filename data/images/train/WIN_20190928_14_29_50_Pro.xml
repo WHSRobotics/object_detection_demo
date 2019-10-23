@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test-v3</folder>
-	<filename>WIN_20190925_16_30_23_Pro (2).jpg</filename>
-	<path>F:\Tensorflow Pics\test-v3\WIN_20190925_16_30_23_Pro (2).jpg</path>
+	<filename>WIN_20190928_14_29_50_Pro.jpg</filename>
+	<path>F:\Tensorflow Pics\test-v3\WIN_20190928_14_29_50_Pro.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>red_foundation</name>
+		<name>blue_foundation</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>168</xmin>
-			<ymin>287</ymin>
-			<xmax>999</xmax>
-			<ymax>459</ymax>
+			<xmin>181</xmin>
+			<ymin>7</ymin>
+			<xmax>1152</xmax>
+			<ymax>408</ymax>
 		</bndbox>
 	</object>
 </annotation>
